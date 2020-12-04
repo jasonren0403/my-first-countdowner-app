@@ -1,0 +1,33 @@
+<resources>
+    <string name="action_quit_app">退出App</string>
+    <string name="action_show_author">关于此App</string>
+    <string name="author_desc" translatable="false">First Android App made by Jason ***, ID:****</string>
+    <string name="button_time_chooser">选择发送提醒的时间</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_return">返回</string>
+    <string name="button_confirm">确认</string>
+    <string name="confirm_exit">确认退出吗？</string>
+    <string name="toggle_sys_alarm">开启系统任务栏提示</string>
+    <string name="review">快去复习！</string>
+    <string name="title_cn" translatable="false">距离%1$s考试还有：</string>
+    <string name="format_date_cn_desc" translatable="false">yyyy年 M月 dd日 HH时 mm分 ss秒</string>
+    <string name="format_countdown_cn_full" translatable="false">yyyy年 M月 dd天 HH小时 mm分钟 ss秒</string>
+    <string name="format_countdown_cn_dhms" translatable="false">dd天 HH小时 mm分钟 ss秒</string>
+    <string name="format_countdown_cn_hms" translatable="false">HH小时 mm分钟 ss秒</string>
+    <string name="format_countdown_cn_ms" translatable="false">mm分钟 ss秒</string>
+    <string name="format_countdown_s">ss秒</string>
+    <string name="test_date" translatable="false">2020年 1月 9日 8时 0分 0秒</string>
+    <string name="test_finished">考试已结束！</string>
+    <string name="service_init_start" translatable="false">CountdownApp: 提醒已启动！默认提醒时间：早上8点，请及时修改</string>
+    <string name="service_start">CountdownApp: 提醒已启动！将在每天%1$s:%2$s时发动提醒！</string>
+    <string name="service_stop">CountdownApp：提醒已停止！</string>
+    <string name="service_broadcast_receiver_message" translatable="false">快去复习！马上就要期末考试了！要不要点开app看看还剩多久？</string>
+    <string name="author_more_info" translatable="false"><![CDATA[设计时间：2019.12\u3000\u3000设计人：***\n
+    学号：***\u3000\u3000班级：2017****]]></string>
+    <string name="author_info_title">作者信息</string>
+    <string name="error_clock_handler" translatable="false">ClockHandler异常！请重启app QuQ</string>
+    <string name="error_timezone" translatable="false">检查到当前系统时区并非Asia/Shanghai时区，倒计时可能会有计算错误</string>
+    <string name="error_broadcast_receiver" translatable="false">CountdownApp：Broadcast模块出错，请检查日志</string>
+    <string name="app_name">倒数器</string>
+    <string name="countdown_name">xx课程</string>
+</resources>
